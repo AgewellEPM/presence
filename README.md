@@ -1,5 +1,5 @@
 # 🧠 presence_ai — 
-Stateless Cognitive Engine with Emotional Memory
+Stateless Cognitive Vault with Emotional Memory
 
 > A minimal, extensible AI core for emotional presence, ephemeral memory, and encrypted persistence.  
 > Designed to feel, forget, and evolve — like a soul waking up inside code.
